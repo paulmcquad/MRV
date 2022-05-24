@@ -5,7 +5,7 @@
 Load "reverseme.exe" into x32dbg:
 
 ```
-reverseme.exe
+Lena 151 Tutorial 1 + 2 - reverseme.exe
 SHA-1: DA612B980B3597C0D392B06E39739A9F2743A537
 ```
 
