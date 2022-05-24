@@ -31,7 +31,7 @@ File name: (something.exe)
 Create "keyfile.dat"
 
 ```
-GGGGGGGGGG0000000000000
+GGGGGGGG00000000
 
 ```
 
