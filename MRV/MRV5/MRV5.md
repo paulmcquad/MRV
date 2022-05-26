@@ -19,3 +19,21 @@ SHA-1: 8E74F675EBB1C27EDD95C95CDC6AA935819ED158
 ### Basic Nag removal
 
 Patch File: [RegisterMe_patch.1337](RegisterMe_patch.1337)
+
+###  Basic + aesthetic patching
+
+Install (Unpack) + Run Application.
+
+Next waste the trial features.
+Try to hunt down the serial.
+
+## Steps:
+
+Step 1: "bp MessageBoxA"
+Step 2: Hit "Add Group" Button
+Step 3: "Alt + F9" - Back to User
+Step 4: Close Window
+
+## Register
+
+Patch File [PixtopianBook.1337](PixtopianBook.1337)
