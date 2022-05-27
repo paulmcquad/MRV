@@ -21,7 +21,7 @@ More info:
 Patch File: [RegisterMe_patch.1337](RegisterMe_patch.1337)
 
 
-##  Basic + aesthetic patching
+## Software Registering
 
 ```
 Lena 151 Tutorial 4 - PixtopianBook.exe
