@@ -39,6 +39,24 @@ Step 2: Hit "Add Group" Button
 Step 3: "Alt + F9" - (Back to User)
 Step 4: Close Window
 Step 5: At the Function (entrypoint).
+Step 6: Step F8 - (Get out of Function)
+Step 7: Scroll Up (to Find Compare ) -
+
+```
+00408B05 | 83F8 03 | CMP EAX, 3 | 3 groups already
+```
+Step 8: Moditfy (JL)
+
+```
+00408B08 | EB 2A | JMP pixtopianbook.408B34 |
+```
+
+Step 9: (Find compare: More than 4 entries per group)
+
+```
+00412DD3 | EB 1A                | JMP pixtopianbook.412DEF              |
+```
+
 
 ### Register
 
