@@ -45,20 +45,29 @@ Step 7: Scroll Up (to Find Compare ) -
 ```
 00408B05 | 83F8 03 | CMP EAX, 3 | 3 groups already
 ```
-Step 8: Moditfy (JL)
+
+
+Step 8: Modify (JL)
 
 ```
 00408B08 | EB 2A | JMP pixtopianbook.408B34 |
 ```
 
-Step 9: (Find compare: More than 4 entries per group)
+Step 9: (Repeat Step 1, 3-8) : 
+Step 9.2 - Hit "Add" on Toolbar.
 
+(Find compare: More than 4 entries per group)
 ```
-00412DD3 | EB 1A                | JMP pixtopianbook.412DEF              |
+00412DD3 | EB 1A | JMP pixtopianbook.412DEF |
 ```
 
+Edit (UnRegistered) lines:
+Ctrl + G:
+```
+004E4BE6
+004D4830
+```
 
 ### Register
 
 Patch File [PixtopianBook.1337](PixtopianBook.1337)
-
