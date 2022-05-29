@@ -68,6 +68,24 @@ Ctrl + G:
 004D4830
 ```
 
+AND:
+
+Also (ByPass):
+
+```
+EBP == 906 (registered)
+EBP == 907 (Unregistered)
+
+0040C22F | 81FD 07090000 | CMP EBP, 907 |
+0040C197 | 81FD 06090000 | CMP EBP, 906 |
+
+SO Patch::
+```
+
+```
+0040C22F | 81FD 06090000 | CMP EBP, 906 |
+```
+
 ### Register
 
 Patch File [PixtopianBook.1337](PixtopianBook.1337)
