@@ -30,7 +30,7 @@ SHA-1: E0E77313C50C5EEA136306A76AE15D5387D66DCE
 Install (Unpack) + Run Application.
 
 Next waste the trial features.
-Try to hunt down the serial.
+Try to Register the product.
 
 ### Steps:
 
