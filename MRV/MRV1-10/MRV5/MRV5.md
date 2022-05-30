@@ -16,7 +16,7 @@ SHA-1: 8E74F675EBB1C27EDD95C95CDC6AA935819ED158
 ![RegisterMe_EXE1](MRV5_EXE1.jpg)
 
 More info:
-[Portable Executable (PE)](../PE.md)
+[Portable Executable (PE)](../../PE.md)
 
 Patch File: [RegisterMe_patch.1337](RegisterMe_patch.1337)
 
